@@ -4,7 +4,7 @@
 
 [Alexandre Tupinambá](https://github.com/Alexandre-Tupinamba) <br/>
 [Alcir Castro](https://github.com/PedroLucasMendes) <br/>
-[Guilherme Duarte](https://github.com/PedroLucasMendes) <br/>
+[Guilherme Duarte](https://github.com/guilhermesilveiraa) <br/>
 [Pedro Mendes](https://github.com/PedroLucasMendes) <br/>
 
 ## :books: Sobre o projeto
