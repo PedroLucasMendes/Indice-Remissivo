@@ -38,7 +38,9 @@ Para compilar os arquivos da pasta **TAD_StopWord** foi utilizado a seguinte dir
 O processamento foi uma etapa realizada para obter as estatísticas das palavras do arquivo, e enfim criar o índice remissivo solicitado. Para isso foi decidido usar duas estruturas em paralelo: **Dicionário Dinâmico**, **Lista encadeada** e **Vetor**, a figura abaixo mostra
 graficamente o funcionamento destas três estruturas.
 
-#IMAGEM AQUI
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/104802373/228119726-dec28a50-773e-4e40-8961-2d30817427bd.png" width=600>
+</div>
 
 
 Ao utilizar estas três estruturas em paralelo podemos realizar buscas de maneira
